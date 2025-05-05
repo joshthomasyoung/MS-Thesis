@@ -1,6 +1,6 @@
 This project contains the important files for my MS Thesis and Python model. The Python model is structured to be adaptable for different locations. The files are described below:
 
-Young_Thesis_March27-V5.pdf - This is my MS Thesis. This thesis fully explains the development of the Python model including methodology, model improvements, results, and discussion. This thesis also explores an application of the model used to optimize HVAC systems in Fairbanks, AK.
+Young_Thesis_April24-V7.pdf - This is my MS Thesis. This thesis fully explains the development of the Python model including methodology, model improvements, results, and discussion. This thesis also explores an application of the model used to optimize HVAC systems in Fairbanks, AK.
 
 Fairbanks Model Home V4.py - This is the main file for the Python model.
 
